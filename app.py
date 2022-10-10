@@ -5,7 +5,7 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import numpy as np
-import cv2
+# import cv2
 import pydicom as dicom
 import math
 import os
